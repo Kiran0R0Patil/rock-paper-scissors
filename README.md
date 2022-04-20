@@ -8,6 +8,7 @@ Learn JavaScript by Building Games **1**
 
 ---
 Game rules:
+
 ![rule](images/rps.png)
 
 JavaScript methods and properties used :
